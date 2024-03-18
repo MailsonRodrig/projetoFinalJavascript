@@ -14,8 +14,8 @@
  src: url(./src/font/Inter-Light.ttf);
 }
 @font-face {
- font-family: interExtraBold;
- src: url(./src/font/Inter-ExtraBold.ttf);
+ font-family: interBlack;
+ src: url(./src/font/Inter-Black.ttf);
 }
 
 * {

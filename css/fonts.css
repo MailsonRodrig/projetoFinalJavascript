@@ -1,0 +1,15 @@
+#h1Index{
+ font-family: interExtraBold;
+ color: #000000;
+ font-size: 2.7em;
+ text-align: center;
+}
+#h2Index{
+ font-family: interLigth;
+ color: #000000;
+ margin-top: .6em;
+ font-size: 1.3em;
+ text-indent: 2em;
+ text-align: justify;
+ font-weight: lighter;
+}
